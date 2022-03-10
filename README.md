@@ -26,6 +26,8 @@ because we can overlap hedgehog with water if we save all possible moves of hedg
 
 If there is no hedgehog left, print KAKTUS.
 
+Remember that we should not change the input array directly , we need copy array or queue to save updates.
+
 ## Where can I get more help, if I need it?
 
 You can contact me through email, which is wogur7496@gmail.com.
